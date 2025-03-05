@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
-<ServiceExceptionReport version="1.1.0">
-<ServiceException>
-[99][Interceptor]
-Overforbruk på kort tid.
-Vent litt, prøv igjen.
-(7)
-</ServiceException>
-</ServiceExceptionReport>
